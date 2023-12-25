@@ -6,10 +6,19 @@
 
 ## Skills and Interests
 
-- 🚀 Coding and application development in languages like Node.js, Python
+- 🚀 Coding and application development in languages like Node.js, Kotlin, Python
 - 🐳 Docker and containerization technologies
-- 🐇 Messaging protocols and services like RabbitMQ
+- 🐇 Messaging protocols and services like RabbitMQ 
   
+
+- ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=white) Node.js
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) Kotlin
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Python
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker
+- ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) Kafka
+
+
 ## 🌟 Most Used Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Ozberk&layout=compact)
 
