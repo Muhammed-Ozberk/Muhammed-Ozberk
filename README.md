@@ -1,5 +1,15 @@
-### Hi there 👋
- 
+# Hello there, I'm Muhammed 👋
+
+## About Me
+
+👨‍💻 I work as a software engineer at Innovation Engineering Ltd. I'm passionate about coding, curious about technology, and particularly interested in languages such as Node.js, Python, Docker, RabbitMQ, among others.
+
+## Skills and Interests
+
+- 🚀 Coding and application development in languages like Node.js, Python
+- 🐳 Docker and containerization technologies
+- 🐇 Messaging protocols and services like RabbitMQ
+  
 ## 🌟 Most Used Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Ozberk&layout=compact)
 
