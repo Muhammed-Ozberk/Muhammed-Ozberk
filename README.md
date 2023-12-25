@@ -4,13 +4,11 @@
 
 👨‍💻 I work as a software engineer at Innovation Engineering Ltd. I'm passionate about coding, curious about technology, and particularly interested in languages such as Node.js, Python, Docker, RabbitMQ, among others.
 
-## Skills and Interests
-
 - 🚀 Coding and application development in languages like Node.js, Kotlin, Python
 - 🐳 Docker and containerization technologies
 - 🐇 Messaging protocols and services like RabbitMQ 
   
-
+## Skills and Interests
 - ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=white) Node.js
 - ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) Kotlin
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
