@@ -2,7 +2,7 @@
 
 ## About Me
 
-👨‍💻 I work as a software engineer at Innovation Engineering Ltd. I'm passionate about coding, curious about technology, and particularly interested in languages such as Node.js, Python, Docker, RabbitMQ, among others.
+👨‍💻 I work as a software engineer at Innovation Engineering Ltd. I'm passionate about coding, curious about technology, and particularly interested in languages such as Node.js, Python, Docker, Kafka, among others.
 
 - 🚀 Coding and application development in languages like Node.js, Kotlin, Python
 - 🐳 Docker and containerization technologies
